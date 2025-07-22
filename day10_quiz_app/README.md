@@ -37,27 +37,3 @@ else:
 ### 🛠️ Mini Project: **Python Quiz App with Error Handling 🎯**
 
 
-### 📢 LinkedIn Post Template:
-
-> 🎯 **Day 10: Python Quiz App with Error Handling**
->
-> Today I learned how to **make my programs unbreakable** by handling errors the right way:
->
-> * Caught bad user input with `try/except`
-> * Prevented crashes from division by zero and invalid types
-> * Made my app more **resilient and user-friendly**
->
-> To practice, I built a fun little **Python Quiz App**:
->
-> ```python
-> try:
->     answer = input("Question: ")
-> except Exception as e:
->     print("⚠️ Error:", e)
-> ```
->
-> Whether the user gives the right answer, wrong one, or nothing at all — the app stays alive 💪
->
-> Code on GitHub 👉 \[insert repo link]
->
-> \#Python #Day10 #ErrorHandling #QuizApp #ResilientCode #VincentLearns #ZeroToDev #BuildInPublic

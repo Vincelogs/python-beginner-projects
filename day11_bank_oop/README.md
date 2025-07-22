@@ -30,36 +30,3 @@ vincent.greet()  # Output: Hello, my name is Vincent and I’m 26 years old.
 
 ### 🛠️ Mini Project: **Bank Account System 🏦**
 
-
-### 📢 LinkedIn Post Template:
-
-> 🏦 **Day 11: Python OOP – Bank Account Simulation**
->
-> Today I officially entered the world of **Object-Oriented Programming (OOP)** in Python.
-> I learned how to:
->
-> * Create classes & objects
-> * Use constructors and instance methods
-> * Simulate real-world systems (like banking 💸)
->
-> I built a full **Bank Account System** that allows you to:
->
-> * Deposit
-> * Withdraw
-> * Check balance
->
-> Sample snippet:
->
-> ```python
-> class BankAccount:
->     def __init__(self, owner, balance=0):
->         self.owner = owner
->         self.balance = balance
-> ```
->
-> This is a BIG leap in writing clean, structured, and scalable code.
->
-> GitHub code 👉 \[insert repo link]
->
-> \#Python #OOP #Day11 #BankApp #FromZeroToDev #VincentLearns #BuildInPublic #ClassesAndObjects
-
